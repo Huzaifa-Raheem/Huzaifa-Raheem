@@ -3,17 +3,17 @@ I'm a sophomore Computer Science student at FAST-NUCES, set to graduate in 2029.
 
 ---
 
-### Featured Projects:   
+### Featured Projects   
    
-#### TumblePop:       
+#### TumblePop       
 A 2D platformer game where the player captures enemies with a vacuum and throws them at other enemies to clear each level, inspired by classic arcade platformers.      
-- **Problem/Solution:** Built the entire game loop from scratch in C++ with SFML — custom gravity and slope collision, 4 distinct enemy AI types (including a ranged enemy that throws fireballs), a 2-character system with different speed/vacuum stats, and randomly generated platform layouts for the second level.
-- **Stack:** C++, SFML
-- **Links:** &nbsp;&nbsp;[Repository](https://github.com/Huzaifa-Raheem/Tumblepop)
+- **Problem/Solution:** &nbsp;Built the entire game loop from scratch in C++ with SFML — custom gravity and slope collision, 4 distinct enemy AI types (including a ranged enemy that throws fireballs), a 2-character system with different speed/vacuum stats, and randomly generated platform layouts for the second level.
+- **Stack:** &nbsp;C++, SFML
+- **Links:** &nbsp;[Repository](https://github.com/Huzaifa-Raheem/Tumblepop)
 
 ---
 
-### Connect With Me:     
+### Connect With Me     
     
 huzaifa521985@gmail.com   
 https://www.linkedin.com/in/muhammad-huzaifa-9320ba396/
