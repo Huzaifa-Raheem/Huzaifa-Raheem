@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi, I'm Huzaifa 👋    
+I'm a sophomore Computer Science student at FAST-NUCES, set to graduate in 2029. Some of my skills include C/C++, SFML, HTML, CSS, and MS Office. I'm also drawn to Artificial Intelligence and Machine Learning, which I plan to explore more deeply as I progress through my degree. Right now, I'm focused on sharpening my programming skills, building projects, and gaining hands-on experience alongside my coursework. Always open to learning, collaborating, and connecting with others in the field.
 
-<!--
-**Huzaifa-Raheem/Huzaifa-Raheem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+Featured Projects:   
+   
+TumblePop:       
+A 2D platformer game where the player captures enemies with a vacuum and throws them at other enemies to clear each level, inspired by classic arcade platformers.   
+Problem/Solution: Built a full physics-based platformer from scratch — gravity, slope collision, enemy AI patrol/edge detection, and a capture-and-throw combat system — without a pre-built game engine.   
+Stack: C++, SFML   
+Links: Repository · Live Demo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+Connect With Me:     
+    
+huzaifa521985@gmail.com   
+https://www.linkedin.com/in/muhammad-huzaifa-9320ba396/
